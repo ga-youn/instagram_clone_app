@@ -1,2 +1,2 @@
 # instargram_clone
-react, node, mongoDB
+android, kotlin, firebase
