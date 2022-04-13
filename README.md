@@ -1,2 +1,2 @@
-# instargram_clone
+# instagram_clone
 android, kotlin, firebase
